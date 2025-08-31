@@ -23,7 +23,7 @@ namespace CALCULATOREVISED
                 label1.Text = ExpressionString;
             }
         }
-        public void Calculate()
+        public void Calculate() //recursion idea for multiple calculations e.g. 1+1+1
         {
             try
             {
